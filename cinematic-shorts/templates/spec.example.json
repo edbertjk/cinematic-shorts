@@ -1,0 +1,283 @@
+{
+ "source": "source.mp4",
+ "output": "Grok_cinematic_60s.mp4",
+ "cuts": [
+  [
+   0,
+   7.9
+  ],
+  [
+   18.24,
+   24.3
+  ],
+  [
+   39.41,
+   50.85
+  ],
+  [
+   75.68,
+   83.82
+  ],
+  [
+   95.37,
+   113.54
+  ],
+  [
+   126.88,
+   130.84
+  ],
+  [
+   150.69,
+   154.53
+  ]
+ ],
+ "fixes": {
+  "grockpot": "Grok",
+  "grock": "Grok",
+  "xei": "xAI",
+  "ei": "AI",
+  "cgpt": "ChatGPT",
+  "nya": "",
+  "point": "poin",
+  "x": "X",
+  "event": "Even",
+  "open": "OpenClaw",
+  "cloud": "",
+  "grockbot": "Grok",
+  "xai": "xAI"
+ },
+ "source_cards": [
+  {
+   "t": 0.1,
+   "dur": 2.6,
+   "brand": "xAI",
+   "title": "Grok, AI buatan xAI",
+   "meta": "grok.com"
+  }
+ ],
+ "illustrations": [
+  {
+   "t": 0.3,
+   "icon": "question",
+   "label": "Lo belum tau ini?",
+   "text": "Soal AI untuk research"
+  },
+  {
+   "t": 5.3,
+   "icon": "factory",
+   "icon_text": "AI",
+   "label": "Dibuat oleh",
+   "text": "xAI"
+  },
+  {
+   "t": 10.3,
+   "icon": "star",
+   "label": "AI research",
+   "text": "Terbaik di 2026"
+  },
+  {
+   "t": 15.3,
+   "icon": "number",
+   "icon_text": "2",
+   "label": "Pembeda",
+   "text": "Grok vs AI lain"
+  },
+  {
+   "t": 20.3,
+   "icon": "xlink",
+   "icon_text": "G",
+   "label": "Terhubung",
+   "text": "Platform X"
+  },
+  {
+   "t": 25.3,
+   "icon": "chart",
+   "label": "Data",
+   "text": "Selalu paling baru"
+  },
+  {
+   "t": 30.3,
+   "icon": "news",
+   "label": "Berita AI",
+   "text": "Langsung masuk"
+  },
+  {
+   "t": 35.3,
+   "icon": "robot",
+   "label": "Poin kedua",
+   "text": "Bikin agent sendiri"
+  },
+  {
+   "t": 40.3,
+   "icon": "server",
+   "label": "Agent di server",
+   "text": "Punya layar sendiri"
+  },
+  {
+   "t": 45.3,
+   "icon": "bolt",
+   "label": "Wow",
+   "text": "Layar agent langsung"
+  },
+  {
+   "t": 50.3,
+   "icon": "question",
+   "label": "OpenClaw",
+   "text": "Tidak bisa lihat layar"
+  },
+  {
+   "t": 55.3,
+   "icon": "trophy",
+   "label": "Rekomendasi",
+   "text": "Buat pemula"
+  }
+ ],
+ "broll": [
+  {
+   "t": 2.8,
+   "icon": "magnifier",
+   "label": "Hasil riset",
+   "text": "Grok, AI terbaru"
+  },
+  {
+   "t": 12.8,
+   "icon": "chart",
+   "label": "Peringkat 1",
+   "text": "AI research 2026"
+  },
+  {
+   "t": 22.8,
+   "icon": "clock",
+   "label": "Real-time",
+   "text": "Data selalu terbaru"
+  },
+  {
+   "t": 32.8,
+   "icon": "bolt",
+   "label": "Super cepat",
+   "text": "Berita baru langsung masuk"
+  },
+  {
+   "t": 42.8,
+   "icon": "browser",
+   "label": "Live preview",
+   "text": "Lihat layar agent"
+  },
+  {
+   "t": 52.8,
+   "icon": "tag",
+   "icon_text": "500rb",
+   "label": "Harga",
+   "text": "Sekitar 500 ribu per bulan"
+  }
+ ],
+ "emphasis": [
+  {
+   "t": 9.6,
+   "dur": 2.4,
+   "small": "gue nobatin Grok jadi",
+   "big": "AI terbaik",
+   "serif": "untuk research 2026",
+   "color": "yellow"
+  },
+  {
+   "t": 19.2,
+   "dur": 2.3,
+   "small": "yang pertama",
+   "big": "connect ke X",
+   "serif": "langsung",
+   "color": "white"
+  },
+  {
+   "t": 26.2,
+   "dur": 1.9,
+   "small": "berita",
+   "big": "4 jam lalu",
+   "serif": "tentang AI terbaru",
+   "color": "white"
+  },
+  {
+   "t": 29.6,
+   "dur": 1.8,
+   "small": "pasti bisa",
+   "big": "langsung masuk",
+   "serif": "di Grok",
+   "color": "yellow"
+  },
+  {
+   "t": 36.2,
+   "dur": 2.4,
+   "small": "poin kedua",
+   "big": "bikin agent",
+   "serif": "di server mereka",
+   "color": "white"
+  },
+  {
+   "t": 45.0,
+   "dur": 1.8,
+   "small": "",
+   "big": "wow!",
+   "serif": "ada live preview",
+   "serif_pos": "above",
+   "color": "yellow"
+  },
+  {
+   "t": 46.9,
+   "dur": 2.5,
+   "small": "even",
+   "big": "OpenClaw pun",
+   "serif": "gak bisa lihat layar",
+   "color": "white"
+  },
+  {
+   "t": 51.8,
+   "dur": 0.95,
+   "small": "walaupun",
+   "big": "agak mahal",
+   "serif": "sikit",
+   "color": "white"
+  },
+  {
+   "t": 56.9,
+   "dur": 2.5,
+   "small": "Grok sudah jadi",
+   "big": "solusi terbaik",
+   "serif": "buat yang baru mau nyoba",
+   "color": "yellow"
+  }
+ ],
+ "qa_times": [
+  1.0,
+  3.5,
+  6.0,
+  10.8,
+  13.0,
+  16.0,
+  20.5,
+  23.5,
+  26.8,
+  30.5,
+  35.5,
+  38.0,
+  40.5,
+  45.5,
+  48.0,
+  50.8,
+  52.0,
+  53.5,
+  57.5
+ ],
+ "look": "natural",
+ "snap": false,
+ "pad": [
+  0,
+  0
+ ],
+ "lang": "id",
+ "music": {
+  "enabled": true,
+  "bpm": 100,
+  "level_db": -17,
+  "export": true
+ }
+}
